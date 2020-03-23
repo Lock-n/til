@@ -8,3 +8,4 @@ Feel free to read them if you want!
 
 - [Git Client](git-client.md)
 - [Ubuntu](ubuntu/README.md)
+- [Postbird](postbird.md)
