@@ -6,7 +6,7 @@ The write ups are written using markdown.
 
 Feel free to read them if you want!
 
-- [Git Client](git-client.md)
+- [Git](git/README.md)
 - [Ubuntu](ubuntu/README.md)
 - [Postbird](postbird.md)
 - [Heroku](heroku/README.md)
