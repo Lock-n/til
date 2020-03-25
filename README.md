@@ -10,3 +10,4 @@ Feel free to read them if you want!
 - [Ubuntu](ubuntu/README.md)
 - [Postbird](postbird.md)
 - [Heroku](heroku/README.md)
+- [Webpack not recognizing changes](webpack-not-recognizing-changes.md)
