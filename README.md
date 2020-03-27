@@ -10,8 +10,8 @@ Feel free to read them if you want!
 - [Git](git/)
 - [Ubuntu](ubuntu/)
 - [Heroku](heroku/)
+- [Windows](windows/)
 
 ## Files
 - [Postbird](postbird.md)
 - [Webpack not recognizing changes](webpack-not-recognizing-changes.md)
-- [Windows](windows/)
