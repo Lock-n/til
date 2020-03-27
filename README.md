@@ -11,6 +11,7 @@ Feel free to read them if you want!
 - [Ubuntu](ubuntu/)
 - [Heroku](heroku/)
 - [Windows](windows/)
+- [Visual Studio Code](vscode/)
 
 ## Files
 - [Postbird](postbird.md)
