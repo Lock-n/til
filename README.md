@@ -6,8 +6,12 @@ The write ups are written using markdown.
 
 Feel free to read them if you want!
 
-- [Git](git/README.md)
-- [Ubuntu](ubuntu/README.md)
+## Categories
+- [Git](git/)
+- [Ubuntu](ubuntu/)
+- [Heroku](heroku/)
+
+## Files
 - [Postbird](postbird.md)
-- [Heroku](heroku/README.md)
 - [Webpack not recognizing changes](webpack-not-recognizing-changes.md)
+- [Windows](windows/)
